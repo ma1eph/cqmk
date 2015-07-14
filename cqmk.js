@@ -1,5 +1,5 @@
-var MLT = "Å~";
-var DIV = "ÅÄ";
+var MLT = "√ó";
+var DIV = "√∑";
 function a(n) {
   document.getElementById("cst").appendChild(document.createTextNode(n));
 }
